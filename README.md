@@ -1,1 +1,3 @@
-# simple-calculator-application-98567
+# Project Repository
+
+This is the initial README file for the project.
